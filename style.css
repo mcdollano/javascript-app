@@ -1,0 +1,17 @@
+body {
+	background: url("images/background.png");
+	margin: 0 auto;
+	 background-size: 100% 100vh;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+.image-container {
+	position: absolute;
+	margin-left: 3%;
+}
+
+#image {
+	width: 80%;
+	height: 50%;px;
+}
